@@ -109,4 +109,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 
 ## ✍️ Auteur
 
-Développé par **[Votre Nom ou Pseudo]**
+Développé par **[TAKI OUSSAMA]**
